@@ -1,2 +1,3 @@
-# README.md
-THRUST NETWORK TECHNOLOGY blockchain solutions research and development
+# THRUST TNT
+
+THRUST TNT is a rapidly advancing blockchain platform developed under THRUST NETWORK TECHNOLOGY. It is designed with a focus on high speed, broad user adoption, and seamless AI integration. Beyond serving as a blockchain for gaming, THRUST TNT aims to democratize financial tools and services, promoting inclusivity and interactive user engagement. The platform also proposes a two-tier validator system to improve scalability and efficiency, which includes main validators handling core consensus tasks and lite validators to support accessibility and network performance​ (tnt.exchange - THRUST NETWORK TECHNOLOGY)​.
